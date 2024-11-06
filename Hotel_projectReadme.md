@@ -1,5 +1,5 @@
 # Hotel Revenue Data Project
-![Hotel Revenue (3).png](attachment:0d34321b-dd91-447e-a75a-0425616f18f0.png)
+![image](https://github.com/user-attachments/assets/0833eafb-233e-41af-8604-fdfc39e26852)
 
 The aim of these project is to find out the following:
 
